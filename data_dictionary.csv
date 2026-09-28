@@ -1,0 +1,12 @@
+field,description,type
+patient_id,Synthetic record identifier,string
+age,Age in years,numeric
+systolic_bp,"Systolic blood pressure, mmHg",numeric
+glucose,Synthetic glucose measurement,numeric
+bmi,Body mass index,numeric
+hypertension,Hypertension indicator,0/1
+atrial_fibrillation,Atrial fibrillation indicator,0/1
+smoker,Current smoking indicator,0/1
+prior_tia,Prior TIA indicator,0/1
+nihss,Synthetic NIHSS-like score,numeric
+outcome,Synthetic binary outcome,0/1
