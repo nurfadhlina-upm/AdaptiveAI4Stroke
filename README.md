@@ -56,3 +56,24 @@ pre-specified decision criteria.
 
 All patient records and outcomes are synthetic. The model is for software/research
 demonstration only and must not be used for patient care.
+
+## Copyright and Use
+
+Copyright © 2026 Nurfadhlina et al. All rights reserved.
+
+This repository contains software and materials developed as
+part of ongoing research. The source code, models, algorithms,
+and associated materials are not released as open-source
+software.
+
+Unauthorized reproduction, modification, redistribution, or
+reuse is prohibited.
+
+See [COPYRIGHT.md](COPYRIGHT.md) for further information.
+
+## Citation
+
+The associated research is currently under publication.
+Citation information will be provided when available.
+
+For further info, contact nurfadhlina@upm.edu.my
